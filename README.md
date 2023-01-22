@@ -4,3 +4,5 @@ Our project continues the concept of a previous project, named "Real Time Detect
 
 In our case, we made several changes that increased the execution speed of the program, since we wrote it in C++ and added Intel libraries for the mathematical calculations.
 We made changes to the model and the dataset that also improved the performance, but the quality of the identification was also slightly affected.
+
+<a href="https://colab.research.google.com/drive/1SUL6KVp05KX4yLYtt6ETDjG2Y6VuLotF?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
