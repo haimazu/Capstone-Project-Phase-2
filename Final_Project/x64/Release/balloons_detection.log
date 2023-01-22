@@ -1,0 +1,42 @@
+﻿  balloons_detection_intel.cpp
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(15,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(16,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(58,82): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(58,69): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(84,31): warning C4244: 'initializing': conversion from 'double' to 'Ipp32f', possible loss of data
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(85,30): warning C4244: 'initializing': conversion from 'double' to 'Ipp32f', possible loss of data
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(98,71): warning C4244: 'argument': conversion from 'Ipp32f' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(98,59): warning C4244: 'argument': conversion from 'Ipp32f' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(98,49): warning C4244: 'argument': conversion from 'Ipp32f' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(98,38): warning C4244: 'argument': conversion from 'Ipp32f' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\balloons_detection\balloons_detection_intel.cpp(158,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 464 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  balloons_detection.vcxproj -> E:\Users\Haim.Azulay\Documents\Projects\Final_Project\balloons_detection\x64\Release\balloons_detection.exe
